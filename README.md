@@ -23,7 +23,7 @@ I also have full‑stack experience: I built a small e‑commerce application wi
 ### Security & Authentication
 - Spring Security · OAuth2 / JWT · Keycloak · Auth0  
 
-### Full‑Stack Demo & Others
+### Full‑Stack & Others
 - Angular · Laravel · Stripe · Vimeo · Cloudflare · Vercel · VPS (Hetzner + Coolify)  
 
 ### Metodologies & Soft Skills
