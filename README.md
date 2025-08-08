@@ -16,7 +16,7 @@ I also have full‑stack experience: I built a small e‑commerce application wi
 - Kafka (Core, Connect, Debezium, Outbox & Saga Patterns)  
 
 ### DevOps & Cloud
-- Kubernetes (Helm, Minikube) · Docker · Skaffold · Terraform  
+- Linux, Kubernetes (Helm, Minikube) · Docker · Skaffold · Terraform  
 - AWS (EC2, S3, RDS, DynamoDB, ECS/EKS, CloudFront, ALB, Route53, SQS, SES, Elastic Beanstalk)  
 - JMeter
 
